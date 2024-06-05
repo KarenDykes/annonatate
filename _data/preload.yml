@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-06-05 16:56:37.291760'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://karendykes.github.io/DHSI2024/manifests/manifest_DHSI.json
+  user: KarenDykes
 settings: {}
 version: '2.1'
